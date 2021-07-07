@@ -1,6 +1,6 @@
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
+*** that would make this better, please fork the BLAOS-Deployment and create a pull request
 *** or simply open an issue with the tag "enhancement".
 *** Thanks again! Now go create something AMAZING! :D
 ***
@@ -89,7 +89,7 @@ This is an example of how to list things you need to use the software and how to
 
 ### Installation
 
-1. Clone the repo
+1. Clone the BLAOS-Deployment
 
    ```sh
    git clone https://github.com/BOHICA-LABS/BLAOS-Deployment.git
@@ -147,15 +147,15 @@ Project Link: [https://github.com/BOHICA-LABS/BLAOS-Deployment](https://github.c
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/BOHICA-LABS/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/BOHICA-LABS/repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/BOHICA-LABS/repo.svg?style=for-the-badge
-[forks-url]: https://github.com/BOHICA-LABS/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/BOHICA-LABS/repo.svg?style=for-the-badge
-[stars-url]: https://github.com/BOHICA-LABS/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/BOHICA-LABS/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/BOHICA-LABS/repo/issues
-[license-shield]: https://img.shields.io/github/license/BOHICA-LABS/repo.svg?style=for-the-badge
-[license-url]: https://github.com/BOHICA-LABS/repo/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/BOHICA-LABS/BLAOS-Deployment.svg?style=for-the-badge
+[contributors-url]: https://github.com/BOHICA-LABS/BLAOS-Deployment/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/BOHICA-LABS/BLAOS-Deployment.svg?style=for-the-badge
+[forks-url]: https://github.com/BOHICA-LABS/BLAOS-Deployment/network/members
+[stars-shield]: https://img.shields.io/github/stars/BOHICA-LABS/BLAOS-Deployment.svg?style=for-the-badge
+[stars-url]: https://github.com/BOHICA-LABS/BLAOS-Deployment/stargazers
+[issues-shield]: https://img.shields.io/github/issues/BOHICA-LABS/BLAOS-Deployment.svg?style=for-the-badge
+[issues-url]: https://github.com/BOHICA-LABS/BLAOS-Deployment/issues
+[license-shield]: https://img.shields.io/github/license/BOHICA-LABS/BLAOS-Deployment.svg?style=for-the-badge
+[license-url]: https://github.com/BOHICA-LABS/BLAOS-Deployment/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/BOHICA-LABS
