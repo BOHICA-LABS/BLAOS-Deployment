@@ -19,6 +19,7 @@ appliance_worker_ram         =
 appliance_worker_disk        = 
 appliance_dns                = ""
 appliance_gateway            = ""
+appliance_subnetmask         = ""
 appliance_master_ipaddresses = ["", "", ""]
 appliance_master_hostnames   = ["", "", ""]
 appliance_worker_ipaddresses = ["", "", ""]
