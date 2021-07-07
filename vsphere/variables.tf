@@ -45,55 +45,55 @@ variable "appliance_master_cpu" {
 }
 
 variable "appliance_master_ram" {
-  description = "The number of cpu for master"
+  description = "The number of RAM for master"
   type        = number
   sensitive   = false
 }
 
 variable "appliance_master_disk" {
-  description = "The number of cpu for master"
+  description = "The size of the disk for master"
   type        = number
   sensitive   = false
 }
 
 variable "appliance_worker_cpu" {
-  description = "The number of cpu for master"
+  description = "The number of cpu for worker"
   type        = number
   sensitive   = false
 }
 
 variable "appliance_worker_ram" {
-  description = "The number of cpu for master"
+  description = "The number of RAM for worker"
   type        = number
   sensitive   = false
 }
 
 variable "appliance_worker_disk" {
-  description = "The number of cpu for master"
+  description = "The size of the disk for worker"
   type        = number
   sensitive   = false
 }
 
 variable "appliance_master_ipaddresses" {
-  description = "a ordered list of the ip addresses for each appliance master in the cluster (The first element will be the initial master)"
+  description = "A ordered list of the ip addresses for each appliance master in the cluster (The first element will be the initial master)"
   type        = list(string)
   sensitive   = false
 }
 
 variable "appliance_master_hostnames" {
-  description = "a ordered list of the hostname for each appliance master in the cluster (should be in the same order as the master ip addresses)"
+  description = "A ordered list of the hostname for each appliance master in the cluster (should be in the same order as the master ip addresses)"
   type        = list(string)
   sensitive   = false
 }
 
 variable "appliance_worker_ipaddresses" {
-  description = "a ordered list of the ip addresses for each appliance worker in the cluster"
+  description = "A ordered list of the ip addresses for each appliance worker in the cluster"
   type        = list(string)
   sensitive   = false
 }
 
 variable "appliance_worker_hostnames" {
-  description = "a ordered list of the hostname for each appliance workers in the cluster (should be in the same order as the workers ip addresses)"
+  description = "A ordered list of the hostname for each appliance workers in the cluster (should be in the same order as the workers ip addresses)"
   type        = list(string)
   sensitive   = false
 }
