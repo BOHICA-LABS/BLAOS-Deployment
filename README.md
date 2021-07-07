@@ -156,6 +156,6 @@ Project Link: [https://github.com/BOHICA-LABS/BLAOS-Deployment](https://github.c
 [issues-shield]: https://img.shields.io/github/issues/BOHICA-LABS/BLAOS-Deployment.svg?style=for-the-badge
 [issues-url]: https://github.com/BOHICA-LABS/BLAOS-Deployment/issues
 [license-shield]: https://img.shields.io/github/license/BOHICA-LABS/BLAOS-Deployment.svg?style=for-the-badge
-[license-url]: https://github.com/BOHICA-LABS/BLAOS-Deployment/blob/master/LICENSE.txt
+[license-url]: https://github.com/BOHICA-LABS/BLAOS-Deployment/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/BOHICA-LABS
