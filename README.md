@@ -74,6 +74,8 @@ This project orchestrates the deployment of a BLOAS based kubernetes cluster.
 
 - [Terraform](https://www.terraform.io/)
 - [BLAOS](https://github.com/BOHICA-LABS/BLAOS)
+- [winscp](https://winscp.net/eng/index.php)
+- [putty](https://www.putty.org/)
 
 <!-- GETTING STARTED -->
 ## Getting Started
